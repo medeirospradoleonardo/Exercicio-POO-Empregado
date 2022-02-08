@@ -1,0 +1,1 @@
+## Exercício 2 da Lista 1 de http://www.ricardoluis.com/wp-content/uploads/2016/09/Exercicios-Heranca.pdf
